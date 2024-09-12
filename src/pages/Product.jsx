@@ -1,8 +1,6 @@
 import React, { useState } from "react";
 import Footer from "../components/Footer";
 import Navbar from "../components/Navbar";
-import Shirt from "./ProductCard/Shirt";
-import Pant from "./ProductCard/Pant";
 import ShirtPopup from "./Popup/ShirtPopup";
 import PantPopup from "./Popup/PantPopup";
 import SockPopup from "./Popup/SockPopup";
