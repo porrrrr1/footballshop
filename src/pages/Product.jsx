@@ -311,7 +311,7 @@ const Product = () => {
       </section>
       <section className="container mx-auto mt-16">
         <h1 className="text-6xl font-bold text-center">Product</h1>
-        <h1 className="text-4xl mt-5">เสื้อฟุตบอล</h1>
+        <h1 className="text-4xl mt-5 text-center">เสื้อฟุตบอล</h1>
         <hr className="mt-5 mb-5" />
         <div>
           <div className="flex flex-wrap justify-center gap-10">
@@ -351,7 +351,7 @@ const Product = () => {
       </section>
 
       <section className="container mx-auto mt-10">
-        <h1 className="text-4xl mt-5">กางเกงฟุตบอล</h1>
+        <h1 className="text-4xl mt-5 text-center">กางเกงฟุตบอล</h1>
         <hr className="mt-5 mb-5" />
         <div className="flex flex-wrap justify-center gap-10">
           {pants.map((p) => (
@@ -388,7 +388,7 @@ const Product = () => {
       </section>
 
       <section className="container mx-auto mt-10">
-        <h1 className="text-4xl mt-5">ถุงเท้าฟุตบอล</h1>
+        <h1 className="text-4xl mt-5 text-center">ถุงเท้าฟุตบอล</h1>
         <hr className="mt-5 mb-5" />
         <div className="flex flex-wrap justify-center gap-10">
           {socks.map((s) => (
@@ -425,7 +425,7 @@ const Product = () => {
       </section>
 
       <section className="container mx-auto mt-10">
-        <h1 className="text-4xl mt-5">รองเท้าฟุตบอล</h1>
+        <h1 className="text-4xl mt-5 text-center">รองเท้าฟุตบอล</h1>
         <hr className="mt-5 mb-5" />
         <div className="flex flex-wrap justify-center gap-10">
           {shoes.map((s) => (
@@ -462,7 +462,7 @@ const Product = () => {
       </section>
 
       <section className="container mx-auto mt-10">
-        <h1 className="text-4xl mt-5">ลูกฟุตบอล</h1>
+        <h1 className="text-4xl mt-5 text-center">ลูกฟุตบอล</h1>
         <hr className="mt-5 mb-5" />
         <div className="flex flex-wrap justify-center gap-10">
           {balls.map((b) => (
@@ -499,7 +499,7 @@ const Product = () => {
       </section>
 
       <section className="container mx-auto mt-10">
-        <h1 className="text-4xl mt-5">สนับแข้งฟุตบอล</h1>
+        <h1 className="text-4xl mt-5 text-center">สนับแข้งฟุตบอล</h1>
         <hr className="mt-5 mb-5" />
         <div className="flex flex-wrap justify-center gap-10">
           {gaiters.map((g) => (
@@ -536,7 +536,7 @@ const Product = () => {
       </section>
 
       <section className="container mx-auto mt-10">
-        <h1 className="text-4xl mt-5">ถุงมือผู้รักษาประตู</h1>
+        <h1 className="text-4xl mt-5 text-center">ถุงมือผู้รักษาประตู</h1>
         <hr className="mt-5 mb-5" />
         <div className="flex flex-wrap justify-center gap-10">
           {goals.map((g) => (
